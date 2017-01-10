@@ -1,6 +1,13 @@
 # New members please add your credentials to a random position in the file.
 # This is to remove conflicts with other people adding their credentials.
-
+- name: Dimas Prayogo
+  github: exozy
+  image: dimas_prayogo.jpg
+  facebook: dimas prayogo
+  bio: 16, web and mobile developer. beginner.
+  lat: -5.147665099999999
+  lng: 119.43273140000001
+  
 - name: Yash Kumar Verma
   image: yashkumarverma.jpg
   github: yashkumarverma
